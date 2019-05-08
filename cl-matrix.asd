@@ -2,6 +2,7 @@
   :name "cl-matrix"
   :author "zhouqingyang"
   :description "matrix operation with gpu"
+  :license "MIT"
   :version "0.1"
   :depends-on (#:cffi
                #:trivial-garbage)

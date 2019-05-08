@@ -1,8 +1,11 @@
 # cl-matrix
 matrix operation using gpu
 
-# you have to install cublas and cusolver
+# To make full use of gpu , you have to install cublas and cusolver first
 
-all test is in example file , and i just test about sbcl, other compiler will be tested future.
+# usage
+
+the usage are all in the example/example.lisp file
+
 
 if you have any problem, please tell me.
